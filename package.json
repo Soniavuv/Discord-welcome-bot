@@ -1,0 +1,22 @@
+{
+  "name": "hello-discord",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soniavuv/Discord-welcome-bot.git"
+  },
+  "author": "iuliia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soniavuv/Discord-welcome-bot/issues"
+  },
+  "homepage": "https://github.com/Soniavuv/Discord-welcome-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
